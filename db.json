@@ -2,18 +2,19 @@
   "data": [
     {
       "id": 1,
-      "name": "A"
+      "name": "A",
+      "fee":1000
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "B",
+      "fee":2000
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "C",
+      "fee":3000
     }
   ],
-  "profile": {
-    "name": "Prashanth"
-  }
+  
 }
